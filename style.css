@@ -1,0 +1,82 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-size: 60px;
+}
+.orrangeColor{
+    color: orange;
+}
+.flexible-container{
+    display: inline-flex;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.colorButton{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 30px;
+}
+.missionItem{
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+#missionSecID{
+    background-color: lightseagreen;
+    padding: 10px;
+}
+#vissionSecID{
+    background-color: lightsalmon;
+    padding: 10px;
+}
+#goalSecID{
+    background-color: lightpink;
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+.focused{
+    color: tomato;
+    border-image-slice: 1;
+    border-left: 5px solid;
+    padding-left: 5px;
+}
+.mission{
+    text-align: center;
+}
+.tomatoColor{
+    color: tomato;
+}
+.blackColor{
+    color: black;
+}
+h3{
+    color: white;
+}
+.colorWhite{
+    color: white;
+    padding-bottom: 2%;
+}
+.footerTag{
+    font-size: 25px;
+    padding-top: 1%;
+    font-family: italic;
+}
